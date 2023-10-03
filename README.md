@@ -13,4 +13,4 @@ Let's connect and collaborate on exciting projects. Feel free to explore my repo
 
 Happy coding! 🚀
 
-![vitalis-virtus's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalis-virtus&show_icons=true&theme=cobalt)
+![vitalis-virtus's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitalis-virtus&show_icons=true&theme=midnight-purple)
