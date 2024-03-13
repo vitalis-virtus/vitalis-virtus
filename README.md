@@ -5,7 +5,6 @@ I'm a passionate software engineer with a focus on Golang and backend developmen
 🚀 Here's what you'll find in my repository:
 
 - Golang projects that demonstrate my love for performance and efficiency.
-- JavaScript and Node.js experiments, showcasing my full-stack skills.
 - Innovative solutions and architectural patterns for modern software development.
 - Cryptocurrency and blockchain-related projects, reflecting my deep interest in this revolutionary technology.
 
